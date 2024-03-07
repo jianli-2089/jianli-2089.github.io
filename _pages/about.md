@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher working on multisensory design in building and landscape. I get my Ph.D. degree from [the Architecture and Industrial Design Department](https://www.architettura.unicampania.it), [University of Campania "Luigi Vanvitelli"](https://www.unicampania.it/). My Ph.D. thesis is "Towards a Human-Centered Approach for the Multisensory Design of Urban Park".
+I am a researcher working on multisensory design in building and landscape. I get my Ph.D. degree from [the Architecture and Industrial Design Department](https://www.architettura.unicampania.it), [University of Campania "Luigi Vanvitelli"](https://www.unicampania.it/). My Ph.D. thesis is [Towards a Human-Centered Approach for the Multisensory Design of Urban Park](../assets/Jian_Li_PhD_Thesis_completed.pdf).
 
 I am very fortune to be advised by [Prof. Massimiliano Masullo](https://www.architettura.unicampania.it/dipartimento/docenti?MATRICOLA=059118) and [Prof. Luigi Maffei](https://www.architettura.unicampania.it/dipartimento/docenti?MATRICOLA=058202) of SENS i-Lab from the department of Architecture and Industrial Design, University of Campania "Luigi Vanvitelli" in Italy. I was advised by [Prof. Quanhong Wang](http://psy.swu.edu.cn/info/1031/2677.htm) from Psychology department, [Southwest University](http://admissions.swu.edu.cn/) in China.
 
