@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Logistics Management, Beijing Wuzi University, 2009-2013
 * M.S. in Fundamental Psychology, Southwest University (China), 2013-2016
-* Ph.D in Architecture and Industrial Design, University of Campania Luigi Vanvitelli, 2020-2023 (expected)
+* Ph.D in Architecture and Industrial Design, University of Campania Luigi Vanvitelli, 2020-2024
 
 Research experience
 ======
@@ -32,7 +32,7 @@ Research experience
   * Visiting PhD Program: “Using Augmented Sound Installations for Noise Masking in a Campus Green Space”
   * Advisors: Chi-Kwan Chau
   
-* 2020 - 2023: University of Campania Luigi Vanvitelli - Dept of Architecture and Industrial Design
+* 2020 - 2024: University of Campania Luigi Vanvitelli - Dept of Architecture and Industrial Design
   * Research project: “Urban lit environment health diagnosis and road lighting energy saving research”
   * National project: “Research on the impact mechanism of dynamic lighting on visual perception constancy in healthy light environment”
   * Co-Advisors: Massimiliano Masullo, Luigi Maffei

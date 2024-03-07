@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian Li / Ph.D candidate"
+title                    : "Jian Li"
 title_separator          : "-"
 name                     : &name "Jian"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jian Li"
+  name             : "Jian Li 李健"
   avatar           : "personalfile.jpg"
   bio              : "SENS i-Lab, University of Campania 'Luigi Vanvitelli'"
   location         : "Aversa, Italy"
