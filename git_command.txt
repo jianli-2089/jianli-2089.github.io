@@ -1,4 +1,4 @@
 git add *
-git commit -m "毕业答辩更新"
+git commit -m "中文简历"
 git pull
 git push origin master

@@ -12,7 +12,7 @@ I am a researcher working on multisensory design in building and landscape. I ge
 
 I am very fortune to be advised by [Prof. Massimiliano Masullo](https://www.architettura.unicampania.it/dipartimento/docenti?MATRICOLA=059118) and [Prof. Luigi Maffei](https://www.architettura.unicampania.it/dipartimento/docenti?MATRICOLA=058202) of SENS i-Lab from the department of Architecture and Industrial Design, University of Campania "Luigi Vanvitelli" in Italy. I was advised by [Prof. Quanhong Wang](http://psy.swu.edu.cn/info/1031/2677.htm) from Psychology department, [Southwest University](http://admissions.swu.edu.cn/) in China.
 
-You can find my CV here: [Jian's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Jian's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)[Jian's 中文简历](../assets/Jian_Li_CV_cn.pdf).
 
 [email](mailto:jian.li@unicampania.it)/[github](https://github.com/jianli-2089) 
 
