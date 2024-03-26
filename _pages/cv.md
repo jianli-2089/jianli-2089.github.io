@@ -23,11 +23,6 @@ Research experience
   * Thesis: “The processing mechanism of symmetry visual perception under the condition of oblique symmetry: two ERP researches on SPN components”
   * Advisors: Quanhong Wang
 
-* 2018 - 2020: Harbin Institute of Technology-Shenzhen - Dept of Architecture 
-  * Research project: “Urban lit environment health diagnosis and road lighting energy saving research”
-  * National project: “Research on the impact mechanism of dynamic lighting on visual perception constancy in healthy light environment”
-  * Advisors: Biao Yang
-  
 * 2022 - 2022: Hong Kong Polytechnic University - Dept of Building Environment and Energy Engineering  
   * Visiting PhD Program: “Using Augmented Sound Installations for Noise Masking in a Campus Green Space”
   * Advisors: Chi-Kwan Chau
@@ -37,21 +32,13 @@ Research experience
   * National project: “Research on the impact mechanism of dynamic lighting on visual perception constancy in healthy light environment”
   * Co-Advisors: Massimiliano Masullo, Luigi Maffei
   
-* 2023 - now: Harbin Institute of Technology-Shenzhen - Dept of Architecture 
-  * Research project: “3D modeling, lighting simulation and verification of the integrative lighting design for traffic tunnels”
-  * Research project: “Potential influencing factors of the commercial signage at night on visual comfort of pedestrians”
-  * Advisors: Biao Yang
-
 Work experience
 ======
 * 2016 - 2018: Neuroscience engineer
   * ShangHai PsyTech Electronic Technology Co., Ltd
   * Duties included: Eye tracking, EEG and fNIRS methodology and applications in neuroscience studies
 
-* 2018 - 2020: Research Assistant
-  * Harbin Institute of Technology-Shenzhen
-  * Duties included: Responsible for conducting scientific research on building light environment evaluation and environmental psychology; Participating in multiple research projects, such as LED lighting energy saving and visual effect compensation mechanism for safe walking environment, and aircraft cockpit automatic lighting system and glare control.
-  
+
 Skills
 ======
 * Rich experience in experiment design and data analysis in acoustical research, lighting research and multisensory research with scientific measurement and technology, including the use of binaural dummy head, SLM, Astro Spatial Audio system, digital audio programming, luminance meter, photometer, integrated with advanced neuroscience and behavior devices including eye-tracker, EEG, fNIRS, etc.;

@@ -12,7 +12,7 @@ I am a researcher focus on development of a methodological framework that combin
 
 I am very fortune to be advised by [Prof. Massimiliano Masullo](https://www.architettura.unicampania.it/dipartimento/docenti?MATRICOLA=059118) and [Prof. Luigi Maffei](https://www.architettura.unicampania.it/dipartimento/docenti?MATRICOLA=058202) of SENS i-Lab from the department of Architecture and Industrial Design, University of Campania "Luigi Vanvitelli" in Italy. I was advised by [Prof. Quanhong Wang](http://psy.swu.edu.cn/info/1031/2677.htm) from Psychology department, [Southwest University](http://admissions.swu.edu.cn/) in China.
 
-You can find my CV here: [Jian's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)[ (中文简历)](../assets/Jian_Li_CV_cn.pdf).
+You can find my CV here: [Jian's Curriculum Vitae](../assets/Jian_Li_CV.pdf)[ (中文简历)](../assets/Jian_Li_CV_cn.pdf).
 
 [email](mailto:jian.li@unicampania.it)/[github](https://github.com/jianli-2089) 
 
@@ -36,7 +36,6 @@ Education
 Research Memberships
 ------
  - Ph.D, SENS i-Lab, Department of Architecture and Industrial Design, University of Campania "Luigi Vanvitelli"
- - Researcher, iLLAB, Department of Architecture, Harbin Institute of Technology-Shenzhen 
 
 For more info
 ------
